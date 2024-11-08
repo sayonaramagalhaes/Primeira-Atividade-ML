@@ -11,11 +11,10 @@ Este repositório contém resumos em vídeo dos capítulos do primeiro ao quinto
 
 
 Capítulo 1 : Visão Geral dos Sistemas de Machine Learning
-link:[https://www.canva.com/design/DAGVjjrFjzI/oG-rWcLAm47yqDdHyrU3_g/view?utm_content=DAGVjjrFjzI&utm_campaign=designshare&utm_medium=link&utm_source=recording_view
-]
+link:[https://drive.google.com/file/d/11eibwOPd2jYVX9uc5LmX3lsUROr8Vwqa/view?usp=drive_link]
 
 Capítulo 2 : Introdução ao Design de Sistemas de machine Learning
-link :[]
+link :[https://www.canva.com/design/DAGVjjrFjzI/oG-rWcLAm47yqDdHyrU3_g/view?utm_content=DAGVjjrFjzI&utm_campaign=designshare&utm_medium=link&utm_source=recording_view ]
 
 Capítulo 3 : Fundamentos de Engenharia de Dados 
 link :[]
