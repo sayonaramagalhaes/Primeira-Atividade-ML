@@ -1,7 +1,7 @@
 
 
 
-        Universidade Federal do Rio Grande do Norte
+Universidade Federal do Rio Grande do Norte
 
 Programa de Pós-Graduação em Engenharia Elétrica e de Computação
 
