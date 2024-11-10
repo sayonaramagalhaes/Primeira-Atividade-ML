@@ -24,7 +24,7 @@ link :[https://drive.google.com/file/d/1-qy5HuNdqFqslKgqyrHzzn6RKIxMaC6S/view?us
 
 Capítulo 4 : Treinando os Dados
 
-link :[]
+link :[https://drive.google.com/file/d/1kITrlnCiMGzvGmFbBbABmd-wAP8wQ0Hm/view?usp=sharing]
 
 Capítulo 5 : Engenharia de Features 
 
