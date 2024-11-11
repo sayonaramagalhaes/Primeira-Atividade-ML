@@ -14,7 +14,7 @@ Capítulo 1 : Visão Geral dos Sistemas de Machine Learning
 
 link:[https://drive.google.com/file/d/11eibwOPd2jYVX9uc5LmX3lsUROr8Vwqa/view?usp=drive_link]
 
-Capítulo 2 : Introdução ao Design de Sistemas de machine Learning
+Capítulo 2 : Introdução ao Design de Sistemas de Machine Learning
 
 link :[https://drive.google.com/file/d/19V2YPAAOZ_E7ckajgVNvkcnewDt8Eu3q/view?usp=sharing]
 
@@ -28,4 +28,4 @@ link :[https://drive.google.com/file/d/1kITrlnCiMGzvGmFbBbABmd-wAP8wQ0Hm/view?us
 
 Capítulo 5 : Engenharia de Features 
 
-link :[]
+link :[https://drive.google.com/file/d/13GRUUG3OSVQ6toPLt-tv292T5yHkCY38/view?usp=sharing]
